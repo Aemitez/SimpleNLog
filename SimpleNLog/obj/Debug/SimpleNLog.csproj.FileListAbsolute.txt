@@ -1,0 +1,8 @@
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\bin\Debug\NLog.config
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\bin\Debug\SimpleNLog.exe.config
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\bin\Debug\SimpleNLog.exe
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\bin\Debug\NLog.dll
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\bin\Debug\NLog.xml
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\obj\Debug\SimpleNLog.csproj.CoreCompileInputs.cache
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\obj\Debug\SimpleNLog.csproj.CopyComplete
+C:\Users\pailinn\Desktop\SimpleNLog\SimpleNLog\obj\Debug\SimpleNLog.exe
